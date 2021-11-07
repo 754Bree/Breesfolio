@@ -1,5 +1,5 @@
 img {
-  float: left;
+  float: inherit ;
 }
 .sidebar {
   width: auto;
@@ -9,7 +9,7 @@ img {
 }
 .column {
     width: 350px;
-    float: right;
+    float: inherit;
 
   }
 body {
@@ -28,6 +28,7 @@ p {
   }
 body {
   background-color: black ;
+  font-family: sans-serif;
 }
 . ABOUT ME P {
   background-color: yellowgreen;
