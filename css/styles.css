@@ -1,22 +1,30 @@
-h1 {
-  color: #7aff00;
-  text-align: left;
+body {
+  background-color: #FF7A00;
 }
-h2 {
-  font-style: italic;
-  text-align: left;
-  color: #7aff00
+header {
+  display: flex;
+  justify-content: space-around;
 }
-img {
-  float: left;
-  width: auto;
-}
-.sidebar {
-  width: 40%
-  float:right;
-  background-color: #black
+nav>ul>li {
+  display: inline-block;
+  padding: 30px;
 
 }
-body {
-  background-color: black
+.Home {
+  display: flex;
+  font-size: 40px;
+  font-weight: bolder;
+  font-family: serif;
+}
+.About {
+  border: 2px solid #000000;
+  margin: 15px;
+  padding:15px;
+}
+.Projects {
+ text-align: center;
+
+}
+.Contact .Copyright {
+  float: right;
 }
