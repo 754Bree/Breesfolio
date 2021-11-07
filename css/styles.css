@@ -9,11 +9,11 @@ img {
 }
 .column {
     width: 350px;
-    float: inherit;
+    float: left;
 
   }
 body {
-  background-color:#black ;
+  background-color: grey ;
 
 }
 p {
