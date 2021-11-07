@@ -2,18 +2,19 @@ img {
   float: left;
 }
 .sidebar {
-  width: 30%;
-  float: left;
+  width: auto;
+  float: inherit;
   background-color: #E5890A;
   text-decoration-color: #141E61 :
 }
 .column {
     width: 350px;
     float: right;
+
   }
 body {
   background-color:#black ;
-  
+
 }
 p {
   font-style: italic;
