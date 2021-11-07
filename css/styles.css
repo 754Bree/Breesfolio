@@ -1,3 +1,26 @@
-h1 {
-  color: #7aff00;
+img {
+  float: left;
 }
+.sidebar {
+  width: 30%;
+  float: left;
+  background-color: #E5890A;
+  text-decoration-color: #141E61 :
+}
+.column {
+    width: 400px;
+    float: left;
+  }
+body {
+  background-color:#DDDDDD ;
+}
+p {
+  font-style: italic;
+  font-weight: bolder;
+  font-family: sans-serif;
+  color: ;#222831 ;
+}
+.test-box {
+  text-align: center;
+    border: 2px solid red;
+  }
