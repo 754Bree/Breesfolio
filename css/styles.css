@@ -1,35 +1,45 @@
-img {
-  float: inherit ;
+.Image-1 {
+  float: left ;
 }
 .sidebar {
-  width: auto;
-  float: inherit;
+  width: 2px;
+  float: right;
   background-color: #E5890A;
-  text-decoration-color: #141E61 :
+   :
 }
 .column {
     width: 350px;
-    float: left;
+    float: inherit;
 
   }
 body {
-  background-color: grey ;
+  background-color: Yellowgreen ;
 
 }
-p {
-  font-style: italic;
-  font-weight: bolder;
-  font-family: sans-serif;
-  color: ;#222831 ;
-}
+
 .test-box {
-  text-align: right;
-    border: 2px solid yellowgreen;
+  text-align: left;
+    border: 4px solid: #E5890A ;float: right;
   }
 body {
-  background-color: black ;
+  background-color: White ;
   font-family: sans-serif;
 }
-. ABOUT ME P {
-  background-color: yellowgreen;
+
+h2 {
+  color: Yellowgreen
+  text-align:left;
+
+}
+.sidebar {
+  text-align: right;
+  color: #E5890A
+}
+h3 {
+  text-align: center;
+  color: #E5890A
+
+}
+h1 {
+ float: left;
 }
