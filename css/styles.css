@@ -10,3 +10,9 @@ nav>ul>li {
   padding: 30px;
 
 }
+.Home {
+  display: flex;
+  font-size: 40px;
+  font-weight: bolder;
+  font-family: serif;
+}
