@@ -1,45 +1,6 @@
-.Image-1 {
-  float: left ;
-}
-.sidebar {
-  width: 2px;
-  float: right;
-  background-color: #E5890A;
-   :
-}
-.column {
-    width: 350px;
-    float: inherit;
-
-  }
 body {
-  background-color: Yellowgreen ;
-
+  background-color: #FF7A00;
 }
-
-.test-box {
-  text-align: left;
-    border: 4px solid: #E5890A ;float: right;
-  }
-body {
-  background-color: White ;
-  font-family: sans-serif;
-}
-
-h2 {
-  color: Yellowgreen
-  text-align:left;
-
-}
-.sidebar {
-  text-align: right;
-  color: #E5890A
-}
-h3 {
-  text-align: center;
-  color: #E5890A
-
-}
-h1 {
- float: left;
-}
+header {
+  display: flex;
+  justify-content: space-around;
